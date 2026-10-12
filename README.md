@@ -1,0 +1,2 @@
+# Akash_singh-Tech-Learning-Journey
+A structured collection of my technical learning journey, including programming, Data Structures and Algorithms, MATLAB, VLSI, Verilog, PCB Design, Embedded Systems, Electronics, Power Systems, Python, AI/ML, and workshop learnings. This repository documents my notes, code, practical experiments, and continuous progress as an Electronics and Communication Engineering student.
